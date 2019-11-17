@@ -9,7 +9,7 @@ go run main.go
 ```
 
 ## To Do
-- [ ] Add unit tests
+- [ ] Add missing unit tests
 - [ ] Refactoring and review code
 
 # Requirements:
